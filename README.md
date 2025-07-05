@@ -1,2 +1,4 @@
 # verilog_combinational
-combinational circuits  simulation
+Simulation of Combinational Circuits
+
+
